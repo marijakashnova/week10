@@ -1,0 +1,10 @@
+Sword
+Hammer
+Shield
+Bow
+Magic Wand
+Laser Gun
+Axe
+Dagger
+Spear
+Magic Staff
